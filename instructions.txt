@@ -1,0 +1,7 @@
+Dentro do mesmo diretório de 'main.py' existem alguns arquivos '.csv'.
+O arquivo 'main.py' deve ser um script capaz de criar um arquivo 'geral.xlsx' em que conterá a informação de cada arquivo .csv em uma aba
+diferente.
+O nome de cada aba deve ser o mesmo do arquivo .csv correspondente (sem a extensão '.csv').
+Para isso, você pode usar a biblioteca 'pandas' para ler os arquivos .csv e a biblioteca 'openpyxl' para criar o arquivo .xlsx.
+Os valores de cada célula devem ser preenchidos com os dados correspondentes dos arquivos .csv.
+O separador de campo dos arquivos .csv é o ponto e vírgula (';').
